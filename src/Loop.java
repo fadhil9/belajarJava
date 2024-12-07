@@ -11,5 +11,14 @@ public class Loop {
             System.out.println("cetak for loop ke : "+i);
         }
     }
+
+    public static void carsLoop(String[] cars){
+        System.out.println("Mobil saya ada banyak, ini nama-nama mobil saya :");
+        int count = 1;
+        for(String i:cars){
+            System.out.println(count+"."+i);
+            count++;
+        }
+    }
     
 }
