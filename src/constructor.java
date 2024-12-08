@@ -8,7 +8,7 @@ public class constructor { //class
     }
     
     public static void main(String[] args) {
-        Scanner masuk = new Scanner(System.in);
+        Scanner masuk = new Scanner(System.in); 
         System.out.println("masukan inpunt :");
         int varInput = masuk.nextInt();
 
