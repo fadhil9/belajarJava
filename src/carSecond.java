@@ -22,8 +22,7 @@ public class carSecond {
             System.out.println("masukan emas karat: ");
             double mas = input.nextDouble();
     
-            carSecond mobilDua = new carSecond(
-            nama, tahun, mas);
+            carSecond mobilDua = new carSecond(nama, tahun, mas);
             
             System.out.println(" ");
             System.out.println("coba saya cek, jadi mobil anda "+mobilDua.name+" dan keluaran tahun "+mobilDua.year);
