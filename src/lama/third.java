@@ -1,3 +1,4 @@
+package lama;
 public class third {
     public void cobaMethodPublic(){
         System.out.println("ini adalah method public,harus buat objek untuk manggil");

@@ -1,3 +1,4 @@
+package lama;
 public class switchTest {
     switchTest(int nilai){
         switch(nilai){

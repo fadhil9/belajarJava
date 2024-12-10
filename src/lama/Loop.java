@@ -1,3 +1,4 @@
+package lama;
 public class Loop {
     public Loop(int nilai){
         while (nilai>1) {

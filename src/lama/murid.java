@@ -1,3 +1,4 @@
+package lama;
 public class murid {
 
     murid(){

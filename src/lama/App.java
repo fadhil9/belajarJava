@@ -1,3 +1,4 @@
+package lama;
 public class App {
     static int perkalian(int a,int b){
         return a*b;

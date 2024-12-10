@@ -1,3 +1,4 @@
+package lama;
 public class second {//ini class
     int x = 11; //ini atribut
 

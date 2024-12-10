@@ -1,3 +1,4 @@
+package lama;
 public class carMain {
     public static void main(String[] args) {
         carOne myCarOne = new carOne();

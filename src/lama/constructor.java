@@ -1,3 +1,4 @@
+package lama;
 import java.util.Scanner;
 
 public class constructor { //class

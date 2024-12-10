@@ -1,3 +1,4 @@
+package lama;
 public class car {
 
     public void fullThrotle(){
